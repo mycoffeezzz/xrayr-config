@@ -1,5 +1,5 @@
-# xrayr-config
-xrayr-config配置一键生成
+# xrayr-config(V2Board)
+xrayr-config配置一键生成(V2Board)
 需要配置参数：ApiHost，ApiKey，NodeID，NodeType，CertDomain，CLOUDFLARE_EMAI，CLOUDFLARE_API_KEY
 
 
